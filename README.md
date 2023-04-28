@@ -28,3 +28,7 @@ check_active(x)
 
 <hr />
 
+### ExtendedUserFields:
+
+The class UserProfile has fields that are added to the default user model
+and model forms are created and the user form is shown together with the user profile fields 
