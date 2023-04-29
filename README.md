@@ -62,7 +62,7 @@ class NewUser(AbstractUser):
     nickname = models.CharField(max_length=100, null=True, blank=True)
 ```
 
-Step 2 - Add the following line in settings.py to
+Step 2 - Add the following line in settings.py:
 
 ```
 AUTH_USER_MODEL = 'user.NewUser'
