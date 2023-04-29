@@ -1,7 +1,7 @@
 ![django-user-model](https://user-images.githubusercontent.com/63022500/235317506-854a0f09-7ba6-4974-bff4-45e2c25fd1f2.jpg)
 
-# Django Completed Studies
-Complete Django Studies
+# Django UserModel Studies
+Django UserModel Studies
 
 ### CustomUserModel:
 
