@@ -43,6 +43,8 @@ and model forms are created and the user form is shown together with the user pr
       
 <img width="393" alt="extended-form" src="https://user-images.githubusercontent.com/63022500/235264606-b57b4060-cde6-46d7-94cd-3f025bcb64d2.png">
 
+<hr />
+
 ### ExtendedUserFields2
 
 The class NewUser inherits from AbstractUser and it allows being able to extend the User Model and create new fields. 
