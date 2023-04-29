@@ -101,5 +101,8 @@ UserAdmin.fieldsets = tuple(fields)
 
 admin.site.register(NewUser, UserAdmin)
 ```
+The result:
+
+<img width="695" alt="additional-fields" src="https://user-images.githubusercontent.com/63022500/235317940-d935a4ac-259b-427c-8e82-e084c1049e4e.png">
 
 
